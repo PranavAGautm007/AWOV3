@@ -1,0 +1,46 @@
+* {
+/*position: relative;*/
+}
+h2{
+color:#193681
+}
+h3{
+    color:#A44F78
+}
+.lionPics{
+    position:relative;
+    }
+.cranePics{
+ position:relative;
+    }
+.butterflyPics{
+ position:relative;
+    }
+.lion p{
+ top:50%;
+ left:50%;
+ color: yellow;
+}
+.crane p{
+    top:50%;
+    left:50%;
+    color:navy
+   }
+.butterfly p{
+    top:50%;
+    left:50%;
+    color: purple;
+    text-decoration-color: black;
+    /*webkit-text-stroke: darkblue;*/
+
+   }
+    
+    .header{
+        color: #81039F;
+        display: flex;
+        justify-content: space-between;
+    }
+    .footer{
+         background-image: url("origamibg.jpg");
+         background-size: 100% 100%;
+           }
